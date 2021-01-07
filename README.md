@@ -3,4 +3,5 @@ Assorted technical and non-technical writing. PDFs are final drafts; published v
 
 # Links to published articles/papers
 - [A guide to time series analysis (part I - non-technical)](https://www.bakertilly.com/insights/a-guide-to-time-series-analysis)
+- [A guide to time series analysis (part II - technical)](https://www.bakertilly.com/insights/a-guide-to-time-series-analysis--part-two)
 - [Moving to a cloud data warehouse](https://www.bakertilly.com/insights/moving-to-a-cloud-data-warehouse-how-to-modernize-an-enterprise-data-warehouse-without-sacrificing-existing-solutions)
